@@ -13,7 +13,7 @@ link to data source : https://www.kaggle.com/datasets/iammustafatz/diabetes-pred
 
 # Data Analysis
 * Data cleaning
-*Label Encoding
+* Label Encoding
  
 # Machine Learning
 * Random Forest
